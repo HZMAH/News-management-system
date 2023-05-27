@@ -1,0 +1,56 @@
+woman woman
+woman
+woman rights
+25 5 2023
+0
+0
+END
+wwww_updated
+woman
+wwww
+25 5 2023
+1
+4
+ahmed
+nice 
+ali
+very nice
+END
+new method for detecting gravitational waves
+Sceince/Techology
+A team of researchers at a leading university has developed a new method for detecting gravitational waves
+23 5 2023
+0
+5
+mona
+Great
+ali_wael
+This is nice
+END
+Data structure
+Projects
+This is a News management system project of DS
+20 5 2023
+0
+5
+ali
+nice project
+END
+Cristiano Ronaldo
+Football
+The greatest player ever
+1 1 2013
+0
+5
+hazem
+That's true
+mona
+Siiiiiiiiiii
+END
+FCIS
+Computers and information
+This is our college
+2 1 2001
+0
+0
+END
